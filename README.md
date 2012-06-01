@@ -7,6 +7,11 @@ ViewPager from the [Android Support Package][2]
 ![ViewPagerTabs Screenshots][7]
 
 
+IMPORTANT
+=========
+Please note that this repository is no longer maintained.
+Look at my [ViewPagerExtensions][8] project (especially SwipeyTabsView) for a better implementation of this view.
+
 
 Usage
 =====
@@ -131,3 +136,4 @@ License
  [5]: http://developer.android.com/guide/developing/projects/projects-eclipse.html#ReferencingLibraryProject
  
  [7]: https://github.com/astuetz/android-viewpagertabs-example/raw/master/tabs.png
+ [8]: https://github.com/astuetz/ViewPagerExtensions
